@@ -1,0 +1,11 @@
+$footer-background: #c6538c;
+.card-footer {
+    background-color: $footer-background;
+    .contentCircle {
+        width: 100px;
+        height: 100px;
+        position: relative;
+        top: -2.5rem;
+        background-color: $footer-background;
+    }
+}
